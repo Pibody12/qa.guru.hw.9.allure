@@ -14,5 +14,6 @@ jobs:
         with:
           distribution: 'zulu' # See 'Supported distributions' for available options
           java-version: '24'
+      - uses: Xotabu4/selenoid-github-action@v2
       # запускаем тесты
-      - run: ./gardlee clean test
+      - run: ./gardlee clean test -Dselenide.remote=https://your.selenoid.com:4444/wd/hub
