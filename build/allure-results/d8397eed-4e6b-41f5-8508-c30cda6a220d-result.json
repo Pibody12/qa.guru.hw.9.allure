@@ -1,0 +1,55 @@
+{
+  "uuid": "d8397eed-4e6b-41f5-8508-c30cda6a220d",
+  "historyId": "5edac06e5449df00c0a21f20f319fd3f",
+  "testCaseId": "[engine:junit-jupiter]/[class:qa.guru.allure.SelenideTest]/[method:testIssueSearch()]",
+  "testCaseName": "testIssueSearch()",
+  "fullName": "qa.guru.allure.SelenideTest.testIssueSearch",
+  "labels": [
+    {
+      "name": "junit.platform.uniqueid",
+      "value": "[engine:junit-jupiter]/[class:qa.guru.allure.SelenideTest]/[method:testIssueSearch()]"
+    },
+    {
+      "name": "host",
+      "value": "Tim"
+    },
+    {
+      "name": "thread",
+      "value": "9392@Tim.Test worker(3)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "package",
+      "value": "qa.guru.allure.SelenideTest"
+    },
+    {
+      "name": "testClass",
+      "value": "qa.guru.allure.SelenideTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "testIssueSearch"
+    },
+    {
+      "name": "suite",
+      "value": "qa.guru.allure.SelenideTest"
+    }
+  ],
+  "links": [],
+  "name": "testIssueSearch()",
+  "status": "passed",
+  "stage": "finished",
+  "description": "",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1775760545438,
+  "stop": 1775760551494
+}
