@@ -16,7 +16,7 @@ public class AttachmentsTest {
         SelenideLogger.addListener("allure", new AllureSelenide());
 
         step("Открываем главную старницу", () -> {
-            open("https://github.com");
+            open();
             attachment("Source", webdriver().driver().source());
         });
     }
